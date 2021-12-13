@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=linzeyan&show_icons=true&theme=monokai&hide_border=true&cache_seconds=1800&border_radius=30)](https://github.com/linzeyan)
+
+- 🌱 I’m currently learning Ansible, Kubernetes, Linux and Terraform.
+
 <!--
 **linzeyan/linzeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
