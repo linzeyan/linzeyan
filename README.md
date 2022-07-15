@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning Ansible, Kubernetes, Linux and Terraform.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linzeyan&layout=compact)](https://github.com/linzeyan)
+
 <!--
 **linzeyan/linzeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
