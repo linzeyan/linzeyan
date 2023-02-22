@@ -2,7 +2,7 @@
 
 [![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=linzeyan&show_icons=true&theme=monokai&hide_border=true&cache_seconds=1800&border_radius=30)](https://github.com/linzeyan)
 
-- 🌱 I’m currently learning Ansible, Kubernetes, Linux and Terraform.
+- 🌱 I’m currently learning , Kubernetes, Linux and Terraform.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linzeyan&layout=compact)](https://github.com/linzeyan)
 
