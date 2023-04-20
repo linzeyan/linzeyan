@@ -1,0 +1,7 @@
+- name: Go
+  percentage: 50
+  color: info
+
+- name: Python
+  percentage: 40
+  color:

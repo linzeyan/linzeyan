@@ -1,0 +1,35 @@
+- title: Student, SooChow University Psychology
+  from: Aug 2006
+  to: Jun 2010
+  description: To understand human beings from the aspects of perception, development, cognition, and behavior and design experiments to verify hypotheses.
+
+- title: Political Warfare Officer, Ministry of National Defense
+  from: Nov 2010
+  to: Jun 2016
+  description:
+
+- title: L1 System Engineer, TimeCity Tech
+  from: Jul 2017
+  to: Jul 2018
+  description: |
+    During the role, responsible for monitoring the production environment and assisting customer service with problem resolution. And also managed and maintained various monitoring tools, managed office network equipment, wrote Shell scripts, and created instructional documents.
+
+- title: Network Operation Engineer, Baifu-tech
+  from: Jul 2018
+  to: Mar 2020
+  description: |
+    During the role, optimized Ansible scripts, implemented frontend CI/CD processes using Docker and Sentry, managed database synchronization and migration using go-mysql-elasticsearch, deployed and configured servers with Nginx, developed monitoring scripts in Python and Golang, and provided debugging support to both frontend and backend engineers.
+
+- title: Website Application Engineer, ShinePeaks Techology
+  from: Apr 2020
+  to: Jun 2020
+  description: |
+    During the role, utilized Ansible to manage the batch creation of Windows Servers on both Aliyun and AWS cloud platforms and deployed programs. Furthermore, used DNSPod and Aliyun traffic scheduler to automatically switch between multiple high-defense and CDN lines for improved efficiency and functionality.
+
+- title: Senior DevOps Engineer, Cloud Miner Ltd.
+  from: Jul 2020
+  to: Dec 2022
+  description: |
+    During the role, responsible for designing and implementing the office network architecture, creating a departmental SOP knowledge base, and organizing regular technical sharing sessions. And also managed SVN data centrally and used LDAP for unified permission management. Furthermore, established GitLab CI/CD processes to replace SVN, wrote program schedules to monitor domain names, certificates, and backup domain records, optimized Nginx configurations for online environments, installed K8s and used ArgoCD to deploy testing environments, and used Terraform to create AWS and Cloudflare resources.
+    Responsible for formulating group information security regulations, implementing and adjusting WAF, implementing antivirus software and adjusting rules, conducting compliance testing, performing departure audits, and managing user behavior.
+    Responsible for recruiting and conducting interviews, designing interview questions, establishing performance assessment standards, and conducting regular evaluations.

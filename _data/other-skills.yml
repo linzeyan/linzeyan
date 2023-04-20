@@ -1,0 +1,15 @@
+- name: Ansible
+  percentage: 80
+  color:
+
+- name: Terraform
+  percentage: 70
+  color: info
+
+- name: K8s
+  percentage: 60
+  color: info
+
+- name: Linux
+  percentage: 70
+  color: secondary
