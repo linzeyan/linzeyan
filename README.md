@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=linzeyan&show_icons=true&theme=monokai&hide_border=true&cache_seconds=1800&border_radius=30)](https://github.com/linzeyan)
-
 - 🌱 I’m currently learning Go, Kubernetes, Linux and Terraform.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linzeyan&layout=compact)](https://github.com/linzeyan)
 
 <!--
 **linzeyan/linzeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ricky's Github Stats](./profile-3d-contrib/profile-season-animate.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linzeyan&layout=compact)](hhttps://linzeyan.github.io)
+
+[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=linzeyan&show_icons=true&theme=monokai&hide_border=true&cache_seconds=1800&border_radius=30)](https://linzeyan.github.io)
