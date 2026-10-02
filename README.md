@@ -17,6 +17,7 @@ Developer & product designer. I build native apps and the tools I wish existed.
 |---|---|
 | [MarkNote](https://marknote.pages.dev/) | Local-first WYSIWYG Markdown editor (Tauri, React, CodeMirror 6) |
 | [Assistant](https://github.com/linzeyan/assistant) | Private, fully local AI assistant for Apple Silicon Macs |
+| [DbClient](https://github.com/linzeyan/dbeaver) | Native rewrite of a DBeaver-class database client — Rust core, Metal grid, no JVM. ~35 databases from Postgres and MySQL to ClickHouse, DuckDB, MongoDB and Snowflake |
 | [InputMethodEditor](https://github.com/linzeyan/InputMethodEditor) | Windows Chinese IME (Zhuyin & Pinyin) built on libchewing |
 | [macshot for Windows](https://github.com/linzeyan/macshot) | Windows port of [macshot](https://macshot.io): annotate, record, OCR + translate, scroll capture |
 
