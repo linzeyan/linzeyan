@@ -20,6 +20,8 @@ Developer & product designer. I build native apps and the tools I wish existed.
 | [DbClient](https://github.com/linzeyan/dbeaver) | Native rewrite of a DBeaver-class database client — Rust core, Metal grid, no JVM. ~35 databases from Postgres and MySQL to ClickHouse, DuckDB, MongoDB and Snowflake |
 | [InputMethodEditor](https://github.com/linzeyan/InputMethodEditor) | Windows Chinese IME (Zhuyin & Pinyin) built on libchewing |
 | [macshot for Windows](https://github.com/linzeyan/macshot) | Windows port of [macshot](https://macshot.io): annotate, record, OCR + translate, scroll capture |
+| [LiteBrowser](https://github.com/linzeyan/LiteBrowser) | Lightweight tabbed browser for low-memory Windows / VDI — keeps only a few tabs live, freezes or discards the rest. Chrome extensions, built-in MCP server |
+| [apitool](https://github.com/linzeyan/testing) | Portable Postman-style API client for low-memory machines — REST, GraphQL, WebSocket, gRPC, MQTT; Postman/OpenAPI import. Unzip and run |
 
 Most install via Homebrew: `brew tap linzeyan/tools && brew install --cask <name>`
 
