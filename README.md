@@ -22,6 +22,7 @@ Developer & product designer. I build native apps and the tools I wish existed.
 | [Assistant](https://github.com/linzeyan/assistant) | Private, fully local AI assistant for Apple Silicon Macs |
 | [DbClient](https://github.com/linzeyan/dbeaver) | Native rewrite of a DBeaver-class database client — Rust core, Metal grid, no JVM. ~35 databases from Postgres and MySQL to ClickHouse, DuckDB, MongoDB and Snowflake |
 | [Viewer](https://github.com/linzeyan/viewer) | Lightweight image viewer for macOS & Windows — arrow keys browse the folder, the wheel zooms. JPEG, PNG, GIF/WebP animation, BMP, TIFF, SVG; a 48 MP photo takes about 75 MB of memory |
+| [FontsMaker](https://github.com/linzeyan/FontsMaker) | Turn open-source fonts into e-reader fonts — embolden, pseudo-vertical, simplified → traditional — saved as a recipe the CLI rebuilds byte for byte. macOS, iPhone & iPad |
 | [InputMethodEditor](https://github.com/linzeyan/InputMethodEditor) | Windows Chinese IME (Zhuyin & Pinyin) built on libchewing |
 | [macshot for Windows](https://github.com/linzeyan/macshot) | Windows port of [macshot](https://macshot.io): annotate, record, OCR + translate, scroll capture |
 | [LiteBrowser](https://github.com/linzeyan/LiteBrowser) | Lightweight tabbed browser for low-memory Windows / VDI — keeps only a few tabs live, freezes or discards the rest. Chrome extensions, built-in MCP server |
