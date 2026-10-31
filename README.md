@@ -34,7 +34,7 @@ Most install via Homebrew: `brew tap linzeyan/tools && brew install --cask <name
 
 | Tool | What it does |
 |---|---|
-| [Poly](https://github.com/linzeyan/vscode-syntax) | One CLI + two VSCode extensions that replace a pile of per-language highlight / lint / format extensions |
+| [Poly](https://github.com/linzeyan/vscode-syntax) | One CLI + one VSCode extension that replace a pile of per-language highlight / lint / format extensions |
 | [formatter](https://github.com/linzeyan/formatter) | Multi-format file formatter CLI in pure Rust |
 | [pm](https://github.com/linzeyan/proxy-manager) | CLI for managing v2ray / sing-box / xray |
 | [redis-top-keys-analyzer](https://github.com/linzeyan/redis-top-keys-analyzer) | Find the biggest and hottest keys in Redis |
