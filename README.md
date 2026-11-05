@@ -228,6 +228,14 @@
       <sub>Pure-Go WebP encoder (lossy, lossless, animation, alpha), no cgo</sub>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/linzeyan/charta"><img align="absmiddle" src="./assets/icons/charta.svg" width="32" height="32" alt="charta"></a>
+      <b><a href="https://github.com/linzeyan/charta">charta</a></b><br>
+      <sub>59 interactive chart types for the web, egui, Slint, Gio and Fyne — Rust and Go ports that render identically</sub>
+    </td>
+    <td valign="top" width="50%"></td>
+  </tr>
 </table>
 
 <details>
