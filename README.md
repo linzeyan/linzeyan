@@ -108,11 +108,15 @@
 </table>
 
 > [!TIP]
-> Most apps and CLIs install via Homebrew:
+> Most apps and CLIs install via Homebrew (macOS) or Scoop (Windows):
 > ```sh
 > brew tap linzeyan/tools
 > brew install --cask <app>   # desktop apps
 > brew install <cli>          # command-line tools
+> ```
+> ```powershell
+> scoop bucket add linzeyan https://github.com/linzeyan/homebrew-tools
+> scoop install linzeyan/<app>
 > ```
 
 ### Developer Tools
